@@ -1,0 +1,20 @@
+# Christopher Huynh chphuynh
+
+# Oliver Rene orene
+
+
+selection.pdf:
+Selection sort on a reverse sorted array takes longer possibly because of swapping, which adds O(1) run time to each inner for loop.
+
+insertion.pdf:
+Insertion sort on a sorted array has a very short runtime because the while loop in the insertion sort is never entered thus running in O(n) time. While in the reverse sorted array, the while loop is always entered thus running in O(n^2) time.
+
+merge.pdf:
+The run time of both the reverse sorted and sorted arrays are similar but the run time of the reverse sorted slowly increases above the sorted run time. The number of comparisons and swaps in a reverse sort run more times than in the sorted.
+
+all-sorted:
+Selection sort takes longest because it always runs in O(n^2) times. Insertion sort runs the quickest because it runs in O(n) time. Merge sort runs second quickest because it runs in O(nlogn) time.
+
+all-unsorted:
+Insertion sort takes the longest because it runs in O(n^2) time on a reverse sorted array with comparisons and swaps. It takes longer than selection sort because Insertion sort has more comparisons and swaps.
+

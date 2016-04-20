@@ -1,0 +1,10 @@
+# Christopher Huynh chphuynh
+
+# Oliver Rene orene
+
+
+The insertion sort on a randomized array can take shortcuts when inputs are roughly in correct order. Therefore it takes longest on a reverse sorted array, quickest on a sorted array, and longest on a randomized array.
+
+The selection sort is in the middle because it always runs in O(n^2) time regardless of if the array is sorted, reverse sorted, or randomized.
+
+The merge sort on a randomized, sorted, and reverse sorted array are similar and only change depending on the amount of comparisons and swaps.

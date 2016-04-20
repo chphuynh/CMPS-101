@@ -1,0 +1,7 @@
+# Christopher Huynh chphuynh
+
+# Oliver Rene orene
+
+Selection Sort: More than an hour.
+Insertion Sort: More than an hour.
+Merge Sort: 6.362645738510376248e+01 or about 63.6 seconds
