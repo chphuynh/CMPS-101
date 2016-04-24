@@ -1,0 +1,17 @@
+Q1. 2.5/3
+In the pseudocode, the if-condition should be a strictly greater-than
+comparison to avoid calling swap on duplicate elements. This doesn't affect
+the time-complexity, but it's good to be careful about these things.
+The statement "Bubble Sort runs n(n+1)/2 times" is imprecise and you need to
+show where this expression comes from. Moreover, this expression is incorrect.
+
+Q2. 2/2
+
+Q3. 2/2
+
+Q4. 1/2
+You must use l'Hopital's rule to show that the inequality is satisfied.
+
+Q5. 0.5/2
+
+TOTAL. 8/9
