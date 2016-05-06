@@ -31,7 +31,7 @@ def hadmat(k):
 def hadmatmult(H, x):
 	n = x.size
 	if(n == 2):
-		return np.array([[x[0]+x[1]],[x[0]-x[1]]])
+		return np.array([x[0]+x[1],x[0]-x[1]])
 	#Split H into 4 quadrants
 	A = np.hsplit(H, 2)
 	A[0] = np.vsplit(A[0], 2)
@@ -39,4 +39,4 @@ def hadmatmult(H, x):
 	blockX1 = hadmatmult(A[0][0],x[0:int(n/2)])
 	blockX2 = hadmatmult(A[0][0],x[int(n/2):n])
 	#return the divide and conquer of H_n as given in equation 2
-	return np.array([[blockX1 + blockX2],[blockX1 - blockX2]]).flatten()
+	return np.concatenate(np.array([[blockX1 + blockX2],[blockX1 - blockX2]])).flatten().flatten()
