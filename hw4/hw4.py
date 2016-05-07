@@ -39,4 +39,4 @@ def hadmatmult(H, x):
 	blockX1 = hadmatmult(A[0][0],x[0:int(n/2)])
 	blockX2 = hadmatmult(A[0][0],x[int(n/2):n])
 	#return the divide and conquer of H_n as given in equation 2
-	return np.concatenate(np.array([[blockX1 + blockX2],[blockX1 - blockX2]])).flatten().flatten()
+	return np.array([[blockX1 + blockX2],[blockX1 - blockX2]]).flatten()
