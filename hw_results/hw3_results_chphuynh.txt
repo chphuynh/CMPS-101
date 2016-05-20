@@ -1,0 +1,11 @@
+5.5/7.5
+-1 For submitting incorrectly.
+Q1 1.5/1.5
+Q2 1/1
+Q3 1.5/2
+        Incorrectly counts inversions
+Q4 2/3
+        No code for randomized algorithm
+Q5 .5/2
+        Insufficient explanation, no algorithm, also time complexity would be
+        average of n as opposed to the nlogn as in quicksort.
