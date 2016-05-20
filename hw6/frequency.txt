@@ -1,0 +1,68 @@
+20 most words
+
+low tree
+1.taste 		45743
+2.product 		41640
+3.coffee		34958
+4.flavor		32364
+5.food			26499
+6.tea			23320
+7.buy			19755
+8.time			16111
+9.tried			16090
+10.amazon		16066
+11.box			15694
+12.little		15556
+13.try			15062
+14.bought		15002
+15.dog			14820
+16.eat			14439
+17.love			14226	
+18.bad			13603
+19.water		13506
+20.price		12783
+
+high tree
+1.coffee		110725
+2.taste			107898
+3.love			107259
+4.flavor		98502
+5.tea			97639
+6.product		94119
+7.food			84863
+8.little		60649
+9.time			58329
+10.amazon		56355
+11.tried		55713
+12.price		55471
+13.buy			51109
+14.eat			47024
+15.try			46996
+16.dog			45136
+17.found		40627
+18.chocolate		40005
+19.bag			37052
+20.water		36128
+
+high tree - low tree
+size = 112126 
+1.using			22179
+2.pretty		18602
+3.looking		17846
+4.available		12696
+5.smell			12530
+6.ones			11701
+7.received		10834
+8.cream			10617
+9.help			9545
+10.meat			8260
+11.slightly		6901
+12.plain		6596
+13.overall		6579
+14.dissapointed		6203
+15.service		5778
+16.blue			5577
+17.feeding		5381
+18.looks		5372
+19.break		4561
+20.satisfying		4328
