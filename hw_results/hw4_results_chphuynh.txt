@@ -1,0 +1,10 @@
+CS 101, Spring 2016, Homework 4 Results
+
+Total Points 5/6
+
+Question 1   (1/1)
+Question 2   (1/1)
+Question 3   (1/2): If n is the total number of elements in the matrix, then the recurrence contains 2T(n/4). However, n is a number where the matrix is n*n, so the recurrence is 2T(n/2) + O(n), for a total runtime O(nlogn)
+Question 4   (1/1)
+Question 5   (1/1)
+
