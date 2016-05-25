@@ -1,0 +1,47 @@
+Low rate tree
+
+asymptotic: Not found 
+	Successor: asyouneed 
+	Frequency: 1
+binary: Not found
+	Successor: binbr
+	Frequency: 13
+complexity: Found!
+	Frequency: 83
+depth: Found
+	Frequency: 183
+mergesort: Not found
+	Successor: merging
+	Freqeuncy: 1
+quicksort: Not found
+	Successor: quickstop
+	Frequency: 6
+structure: Found!
+	Frequency: 27
+theta: Not found
+	Successor: thevey
+	Frequency: 1
+
+High rate tree
+
+asymptotic: Not found 
+	Successor: at2020 
+	Frequency: 3
+binary: Not found
+	Successor: binaturae
+	Frequency: 1
+complexity: Found!
+	Frequency: 196
+depth: Found!
+	Frequency: 492
+mergesort: Not found
+	Successor: merging
+	Freqeuncy: 5
+quicksort: Not found
+	Successor: quickstop
+	Frequency: 2
+structure: Found!
+	Frequency: 74
+theta: Not found
+	Successor: thethought
+	Frequency: 1
