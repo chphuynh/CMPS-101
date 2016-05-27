@@ -1,1 +1,31 @@
-Q1: 0.5  Q2: 0  Q3: 2.5  Q4: 2.5  Q5: 1  Q6: 2   TOT: 8.5
+Actual Midterm Score
+Q1:0.5
+Q2:0
+Q3:2.5
+Q4:2.5
+Q5:1
+Q6:2
+TOTAL:8.5
+
+Half Deficit in Actual Midterm
+Q1:0.75
+Q2:1
+Q4:0.75
+Q5:1.5
+Q6:1
+
+Homework Score
+Q1:2
+Q2:2
+Q4:4
+Q5:0
+Q6:2
+
+Homework Score Bounded by Half Deficit
+Q1:0.75
+Q2:1
+Q4:0.75
+Q5:0
+Q6:1
+
+NEW TOTAL:12
