@@ -1,0 +1,8 @@
+6: Jennifer Lawrence, Woon-gyu Na
+6: Princyany, Kiyoshi Fukushima
+6: Peter Getov, Reginald Switz
+6: Giovanne Taffuri, Eleni Kefalopoulou
+6: Giorgos Stratigakis, Frits van Wenkop
+
+I modified the levels(src) function to print out the names and degree of seperation of each thespian that had a degree greater than 6.
+After finding Woon-gyu Na, I selected a random name from his huge list of thespians that had degree of seperation greater than 6. I than repeated this process with the other thespians.
