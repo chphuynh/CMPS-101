@@ -1,5 +1,5 @@
 # CMPS 101 - Algorithms and Abstract Data Types
-- Seshadhri Comandur - Spring 2015
+- Seshadhri Comandur - Spring 2016
 - https://courses.soe.ucsc.edu/courses/cmps101/
 
 - Studies basic algorithms and their relationships to common abstract data types. Covers the notions of abstract data types and the distinction
