@@ -1,7 +1,0 @@
-Total Points 8.6/9
-
-Question 1 (2/2)
-Question 2 (1.9/2): Insertion sort is invisible in sorted cases; although it is expected to lie on the horizontal axis, some indication that it is, in fact, there would be nice. 
-Question 3 (2/2)
-Question 4 (1.7/2): Insertion sort's ability to take shortcuts doesn't lead it to be slow. 
-Question 5 (1/1)

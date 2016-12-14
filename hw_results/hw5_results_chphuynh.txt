@@ -1,8 +1,0 @@
-Q1: 1/1
-Q2: 1/2 It’s a solution, but it’s not the most efficient one.
-Q3: 2/2
-Q4: 1/3 Your insert doesn’t link the new node to the tree.  Also, the time complexities for all 3 are O(D), which is not necessarily the same as O(logn).
-
--0.5 for misnamed file submission
-
-Total: 4.5/8
